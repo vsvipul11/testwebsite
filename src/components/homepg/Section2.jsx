@@ -12,8 +12,8 @@ function Company() {
     "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/Brands/facebook.png",
     "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/Brands/google.png",
     "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/Brands/two_sigma.png",
-    "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/WhatsApp%20Image%202025-02-28%20at%2019.22.35.jpeg",
-   " https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/WhatsApp%20Image%202025-02-28%20at%2019.22.35%20(1).jpeg"
+    "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/WhatsApp_Image_2025-02-28_at_19.22.35__3_-removebg-preview.png",
+    "https://heybuddystorage.blob.core.windows.net/s3-migratedheybuddy/WhatsApp_Image_2025-02-28_at_19.22.35__2_-removebg-preview.png"
   ];
 
   //   const row2 = [
